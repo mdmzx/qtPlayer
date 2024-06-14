@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/next.png</file>
+        <file>assets/openDir.png</file>
+        <file>assets/pause.png</file>
+        <file>assets/playing.png</file>
+        <file>assets/playList.png</file>
+        <file>assets/playList_random.png</file>
+        <file>assets/playList_repeat.png</file>
+        <file>assets/playList_repeatOnce.png</file>
+        <file>assets/prev.png</file>
+        <file>assets/volume.png</file>
+        <file>assets/ningguang.png</file>
+    </qresource>
+</RCC>
